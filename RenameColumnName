@@ -1,0 +1,2 @@
+#?
+df.rename(columns={'Hospital_Name':'Name'}, inplace=True)
